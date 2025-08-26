@@ -58,41 +58,34 @@ Edit
    cd GlowCart
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
 Start the Metro server:
 
-bash
-Copy
-Edit
 npx react-native start
 Run the app on Android:
 
-bash
-Copy
-Edit
+
 npx react-native run-android
 Run the app on iOS (Mac only):
 
-bash
-Copy
-Edit
 npx react-native run-ios
 🎥 Demo Video
-👉 Demo Video Link
+👉[ Demo Video Link](https://drive.google.com/file/d/1TB7eWrluDUXXqd_7cZIiWLN3jBxmif6X/view?usp=drivesdk)
 
 📸 Screenshots
 (Add your screenshots here after running the app)
 
 Onboarding Screen
+![WhatsApp Image 2025-08-26 at 18 39 45_9b514011](https://github.com/user-attachments/assets/13218e1a-2aa0-4539-8f2a-1847d7301e3a)
 
 Login & Register Screens
+![WhatsApp Image 2025-08-26 at 18 39 46_e71ac6f1](https://github.com/user-attachments/assets/5e95c229-8ee4-4875-a875-9796f2e8af6b)
 
 Home Screen (Product List)
+![WhatsApp Image 2025-08-26 at 18 40 01_9b3bb9d7](https://github.com/user-attachments/assets/53758f12-4699-4240-8ac7-b92c1d9c9dcb)
 
 Product Details Screen
+![WhatsApp Image 2025-08-26 at 18 40 02_6a2df576](https://github.com/user-attachments/assets/c8e2f9d7-ae88-492d-980c-ca33de259cb6)
 
 Profile Screen
 
